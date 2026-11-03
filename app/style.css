@@ -1,0 +1,93 @@
+/* Review screen styles. Tokens come from a measured reference: IRS Schedule 1-A (Form 1040) 2025, page 1.
+   The page is achromatic; colour is used only for data: routes, lane states and parity. */
+
+:root {
+  --ink: #040404;
+  --ink-2: #1d1d1d;
+  --ink-3: #3d3d3d;
+  --muted: #676767;
+  --leader: #9a9a9a;
+  --shade: #c0c0c0;
+  --rule: #e4e4e4;
+  --wash: #f4f4f4;
+  --paper: #ffffff;
+  --focus: #1f4e79;
+
+  --route-update: #0b5cad;
+  --route-reviewer: #9a6700;
+  --route-amendment: #b42318;
+  --route-document: #6f42c1;
+  --route-quiet: #676767;
+  --lane-done: #1a7f37;
+  --lane-failed: #b42318;
+  --lane-waiting: #9a6700;
+  --lane-skipped: #9a9a9a;
+
+  --font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  --ease: cubic-bezier(0.2, 0, 0, 1);
+  --t-fill: 220ms;
+  --t-step: 60ms;
+}
+
+html, body, [class*="css"], .stMarkdown, .stCaption, button, input, textarea, select {
+  font-family: var(--font);
+}
+
+.block-container { max-width: 1320px; padding-top: 1.4rem; }
+h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.01em; margin-bottom: 0; color: var(--ink); }
+code, pre, .stCode { font-family: var(--mono); }
+
+/* Header */
+.sub { color: var(--ink-3); font-size: 14px; margin: 2px 0 10px; }
+.facts { display: flex; flex-wrap: wrap; gap: 0; border: 1px solid var(--ink); font-size: 12.5px; }
+.facts span { padding: 5px 10px; border-right: 1px solid var(--rule); color: var(--ink-2); }
+.facts span:last-child { border-right: 0; }
+.facts b { font-weight: 700; }
+
+/* Section label, as the form's part headers: a black box, then the title, over a heavy rule */
+.part { display: flex; align-items: stretch; border-bottom: 2px solid var(--ink); margin: 26px 0 10px; }
+.part .label { background: var(--ink); color: var(--paper); font-weight: 700; font-size: 13px; padding: 4px 10px; }
+.part .title { font-size: 13px; color: var(--ink-3); padding: 4px 12px; align-self: center; }
+
+/* Lane board */
+.board { display: flex; gap: 6px; align-items: stretch; flex-wrap: nowrap; overflow-x: auto; padding: 2px 0 6px; }
+.stage { display: flex; flex-direction: column; gap: 6px; flex: 0 0 auto; }
+.arrow { align-self: center; color: var(--leader); font-size: 13px; flex: 0 0 auto; }
+.lane { position: relative; width: 150px; border: 1px solid var(--shade); border-radius: 0; background: var(--paper); padding: 9px 9px 8px; }
+.lane .bar { position: absolute; left: -1px; right: -1px; top: -1px; height: 3px; background: var(--state, var(--shade)); transform-origin: left center; }
+.lane .name { font-size: 12.5px; font-weight: 700; color: var(--ink); }
+.lane .meta { font-size: 12px; color: var(--ink-3); margin-top: 2px; font-variant-numeric: tabular-nums; }
+.lane .sum { font-size: 11.5px; color: var(--muted); margin-top: 4px; line-height: 1.35; }
+.lane.idle { background: var(--wash); }
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; background: var(--state, var(--shade)); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .lane .bar { animation: fill var(--t-fill) var(--ease) both; animation-delay: calc(var(--i, 0) * var(--t-step)); }
+}
+@keyframes fill { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+
+/* Return detail: form lines with dot leaders and a boxed line number */
+.lines { border-top: 1px solid var(--ink); }
+.ln { display: grid; grid-template-columns: 1fr 56px 120px 120px; align-items: end; border-bottom: 1px solid var(--rule); font-size: 13px; }
+.lines.filed .ln { grid-template-columns: 1fr 56px 120px 120px 120px; }
+.ln .amt.filed { color: var(--ink-3); }
+.ln .label { display: flex; align-items: end; padding: 5px 0 4px; color: var(--ink-2); min-width: 0; }
+.ln .label span { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.ln .label i { flex: 1; border-bottom: 1px dotted var(--leader); margin: 0 8px 4px; min-width: 12px; }
+.ln .no { border-left: 1px solid var(--ink); border-right: 1px solid var(--ink); text-align: center; font-weight: 700; padding: 5px 0 4px; font-size: 12px; }
+.ln .amt { text-align: right; padding: 5px 8px 4px; font-variant-numeric: tabular-nums; }
+.ln.head { font-size: 11.5px; font-weight: 700; color: var(--ink-3); border-bottom: 1px solid var(--ink); }
+.ln.head .no { border: 0; }
+.ln.changed .after { font-weight: 700; color: var(--ink); }
+.ln.changed .label span::before { content: ""; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--route-amendment); margin-right: 6px; vertical-align: middle; }
+
+/* Reads, authorities, notes */
+.note { border-left: 3px solid var(--ink); padding: 6px 12px; font-size: 13.5px; color: var(--ink); background: var(--wash); }
+.source { font-size: 11.5px; color: var(--muted); margin-top: 4px; }
+.excerpt { border-left: 1px solid var(--shade); padding: 2px 10px; margin: 6px 0 10px; font-size: 12.5px; color: var(--ink-3); }
+.excerpt b { color: var(--ink); }
+
+/* Controls: 4px radius by role; tables and lanes stay square */
+.stButton button, .stDownloadButton button { border-radius: 4px; }
+.stButton button[kind="primary"] { background: var(--focus); border-color: var(--focus); }

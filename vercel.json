@@ -1,0 +1,24 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "services": {
+    "web": {
+      "root": "web/",
+      "framework": "nextjs"
+    },
+    "api": {
+      "root": ".",
+      "framework": "fastapi",
+      "entrypoint": "src.taxdiff.api.app:app",
+      "functions": {
+        "src/taxdiff/api/app.py": {
+          "maxDuration": 300,
+          "excludeFiles": "{web/**,app/**,tests/**,docs/**,scripts/**,cache/law/raw/**,.streamlit/**,.venv/**,**/__pycache__/**}"
+        }
+      }
+    }
+  },
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": { "service": "api" } },
+    { "source": "/(.*)", "destination": { "service": "web" } }
+  ]
+}

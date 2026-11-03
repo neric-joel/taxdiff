@@ -8,6 +8,7 @@ the reviewer, amendment review, or a document request. Every number comes from d
 source recorded, and nothing is applied until a named reviewer approves the exact preview.
 
 - **Live app:** https://taxdiff-app.vercel.app (synthetic data only; `/status` checks every endpoint and outside service)
+- **Demo video:** https://youtu.be/KrHqzrfX2YA (6 minutes)
 - **Design document:** [docs/designs/taxdiff.md](docs/designs/taxdiff.md)
 
 ## The main example

@@ -1,0 +1,12 @@
+id: CS-001
+kind: rule
+title: Count only the FLSA-required overtime premium
+author: reviewer
+rationale: >
+  Rules version 1 counted all overtime pay in W-2 box 14 toward the Schedule 1-A deduction. IRS Notice 2025-69
+  counts only the premium the FLSA requires: the extra half in time-and-a-half.
+rule_edits:
+  - path: overtime.definition
+    to: flsa_premium
+    cite: IRS Notice 2025-69 (Nov 21 2025), qualified overtime compensation
+    url: https://www.irs.gov/pub/irs-drop/n-25-69.pdf

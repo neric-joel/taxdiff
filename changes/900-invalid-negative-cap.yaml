@@ -1,0 +1,8 @@
+id: CS-900
+kind: rule
+title: Invalid example, negative cap with no citation
+author: reviewer
+rule_edits:
+  - path: overtime.cap.other
+    to: -1
+    cite: ""

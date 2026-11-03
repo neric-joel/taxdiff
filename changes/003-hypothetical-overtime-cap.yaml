@@ -1,0 +1,9 @@
+id: CS-003
+kind: rule
+title: Lower the overtime cap to $2,500 for single and head of household filers
+author: reviewer
+rationale: Hypothetical change for testing the pipeline. Not current law.
+rule_edits:
+  - path: overtime.cap.other
+    to: 2500
+    cite: Hypothetical change for testing (not current law)

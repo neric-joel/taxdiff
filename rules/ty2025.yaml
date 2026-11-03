@@ -1,0 +1,122 @@
+# Federal rule pack, tax year 2025, version 1.
+# Every value cites its source. Version 1 maps W-2 box 14 overtime pay straight to Schedule 1-A
+# (overtime.definition: box14_total); change set 001 replaces that reading with IRS Notice 2025-69.
+name: ty2025-federal
+tax_year: 2025
+version: 1
+parameters:
+  standard_deduction.single:
+    value: 15750
+    cite: IRC 63(c) as amended by P.L. 119-21; 2025 Form 1040 instructions, line 12e (supersedes Rev. Proc. 2024-40 sec. 3.15(1))
+    url: https://www.irs.gov/instructions/i1040gi
+  standard_deduction.mfj:
+    value: 31500
+    cite: IRC 63(c) as amended by P.L. 119-21; 2025 Form 1040 instructions, line 12e (supersedes Rev. Proc. 2024-40 sec. 3.15(1))
+    url: https://www.irs.gov/instructions/i1040gi
+  standard_deduction.mfs:
+    value: 15750
+    cite: IRC 63(c) as amended by P.L. 119-21; 2025 Form 1040 instructions, line 12e (supersedes Rev. Proc. 2024-40 sec. 3.15(1))
+    url: https://www.irs.gov/instructions/i1040gi
+  standard_deduction.hoh:
+    value: 23625
+    cite: IRC 63(c) as amended by P.L. 119-21; 2025 Form 1040 instructions, line 12e (supersedes Rev. Proc. 2024-40 sec. 3.15(1))
+    url: https://www.irs.gov/instructions/i1040gi
+  standard_deduction.age65.married:
+    value: 1600
+    cite: IRC 63(f); Rev. Proc. 2024-40 sec. 3.15(3); 2025 Form 1040 instructions p.35
+    url: https://www.irs.gov/pub/irs-drop/rp-24-40.pdf
+  standard_deduction.age65.unmarried:
+    value: 2000
+    cite: IRC 63(f); Rev. Proc. 2024-40 sec. 3.15(3); 2025 Form 1040 instructions p.35
+    url: https://www.irs.gov/pub/irs-drop/rp-24-40.pdf
+  age65.born_before:
+    value: 1961-01-02
+    cite: Pub 501 p.23 (treated as 65 on the day before the 65th birthday)
+    url: https://www.irs.gov/publications/p501
+  overtime.definition:
+    value: box14_total
+    cite: Engine release 1 mapping of W-2 box 14 overtime pay to Schedule 1-A
+  overtime.cap.other:
+    value: 12500
+    cite: IRC 225(b)(1); IRS Notice 2025-69 p.8; Schedule 1-A (Form 1040) 2025 line 15
+    url: https://www.irs.gov/pub/irs-drop/n-25-69.pdf
+  overtime.cap.mfj:
+    value: 25000
+    cite: IRC 225(b)(1); IRS Notice 2025-69 p.8; Schedule 1-A (Form 1040) 2025 line 15
+    url: https://www.irs.gov/pub/irs-drop/n-25-69.pdf
+  overtime.phaseout.start.other:
+    value: 150000
+    cite: IRC 225(b)(2); Schedule 1-A (Form 1040) 2025 line 17
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  overtime.phaseout.start.mfj:
+    value: 300000
+    cite: IRC 225(b)(2); Schedule 1-A (Form 1040) 2025 line 17
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  overtime.phaseout.step:
+    value: 1000
+    cite: IRC 225(b)(2); Schedule 1-A (Form 1040) 2025 lines 18-21
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  overtime.phaseout.reduction_per_step:
+    value: 100
+    cite: IRC 225(b)(2); Schedule 1-A (Form 1040) 2025 lines 18-21
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  tips.cap:
+    value: 25000
+    cite: IRC 224(b)(1); Schedule 1-A (Form 1040) 2025
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  tips.phaseout.start.other:
+    value: 150000
+    cite: IRC 224(b)(2); Schedule 1-A (Form 1040) 2025 part II
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  tips.phaseout.start.mfj:
+    value: 300000
+    cite: IRC 224(b)(2); Schedule 1-A (Form 1040) 2025 part II
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  tips.phaseout.step:
+    value: 1000
+    cite: IRC 224(b)(2); Schedule 1-A (Form 1040) 2025 part II
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  tips.phaseout.reduction_per_step:
+    value: 100
+    cite: IRC 224(b)(2); Schedule 1-A (Form 1040) 2025 part II
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  senior.amount:
+    value: 6000
+    cite: IRC 151(d)(5)(C); Schedule 1-A (Form 1040) 2025 lines 33-37
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  senior.born_before:
+    value: 1961-01-02
+    cite: Schedule 1-A (Form 1040) 2025, enhanced deduction for seniors; Pub 501
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  senior.phaseout.start.other:
+    value: 75000
+    cite: IRC 151(d)(5)(C); Schedule 1-A (Form 1040) 2025 line 32
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  senior.phaseout.start.mfj:
+    value: 150000
+    cite: IRC 151(d)(5)(C); Schedule 1-A (Form 1040) 2025 line 32
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  senior.phaseout.rate:
+    value: 0.06
+    cite: IRC 151(d)(5)(C); Schedule 1-A (Form 1040) 2025 lines 33-37
+    url: https://www.irs.gov/pub/irs-pdf/f1040s1a.pdf
+  brackets.single:
+    value: [[11925, 0.10], [48475, 0.12], [103350, 0.22], [197300, 0.24], [250525, 0.32], [626350, 0.35], [null, 0.37]]
+    cite: Rev. Proc. 2024-40 sec. 3.01 (matches the 2025 Tax Table and Tax Computation Worksheet)
+    url: https://www.irs.gov/pub/irs-drop/rp-24-40.pdf
+  brackets.mfj:
+    value: [[23850, 0.10], [96950, 0.12], [206700, 0.22], [394600, 0.24], [501050, 0.32], [751600, 0.35], [null, 0.37]]
+    cite: Rev. Proc. 2024-40 sec. 3.01 (matches the 2025 Tax Table and Tax Computation Worksheet)
+    url: https://www.irs.gov/pub/irs-drop/rp-24-40.pdf
+  brackets.mfs:
+    value: [[11925, 0.10], [48475, 0.12], [103350, 0.22], [197300, 0.24], [250525, 0.32], [375800, 0.35], [null, 0.37]]
+    cite: Rev. Proc. 2024-40 sec. 3.01 (matches the 2025 Tax Table and Tax Computation Worksheet)
+    url: https://www.irs.gov/pub/irs-drop/rp-24-40.pdf
+  brackets.hoh:
+    value: [[17000, 0.10], [64850, 0.12], [103350, 0.22], [197300, 0.24], [250500, 0.32], [626350, 0.35], [null, 0.37]]
+    cite: Rev. Proc. 2024-40 sec. 3.01 (matches the 2025 Tax Table and Tax Computation Worksheet)
+    url: https://www.irs.gov/pub/irs-drop/rp-24-40.pdf
+  tax_table.below:
+    value: 100000
+    cite: 2025 Form 1040 instructions p.36 (Tax Table under $100,000; Tax Computation Worksheet at or above)
+    url: https://www.irs.gov/instructions/i1040gi

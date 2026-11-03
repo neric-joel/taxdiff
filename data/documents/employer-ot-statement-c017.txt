@@ -1,0 +1,15 @@
+EMPLOYER STATEMENT OF QUALIFIED OVERTIME COMPENSATION
+SYNTHETIC DOCUMENT FOR TESTING. The employer and employee are not real.
+
+Employer: Example Freight Co. (synthetic)
+Employee: Client C-017
+Employee SSN (last 4): 8313
+Tax year: 2025
+
+Overtime pay in W-2 box 14 combines overtime the FLSA requires (hours over 40 in a workweek)
+with daily overtime paid under state law only. This statement separates the FLSA part.
+
+FLSA overtime hours: 160.00
+Regular rate of pay: $24.00
+Overtime premium paid under the FLSA (half-time portion): $1,920.00
+Overtime paid under state daily-overtime rules only: $1,740.00

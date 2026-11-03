@@ -1,0 +1,1563 @@
+{
+ "policyengine_us": "2.90.4",
+ "results": {
+  "0029cd7fc17f31db6e50f2f1": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3571.5,
+   "overtime_income_deduction": 4500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 31750.0,
+   "tip_income_deduction": 0.0
+  },
+  "046f2caeb9f04a3fbeded1a6": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4999.5,
+   "overtime_income_deduction": 9600.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 43650.0,
+   "tip_income_deduction": 0.0
+  },
+  "08008c4a3e6bc763f7d325d1": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2513.0,
+   "overtime_income_deduction": 600.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 23775.0,
+   "tip_income_deduction": 0.0
+  },
+  "0806afdfbb2abb5d40733a41": {
+   "additional_senior_deduction": 6000.0,
+   "income_tax_before_credits": 5311.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 17750.0,
+   "taxable_income": 46250.0,
+   "tip_income_deduction": 0.0
+  },
+  "089f8a993979666958f1eb81": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5191.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 45250.0,
+   "tip_income_deduction": 0.0
+  },
+  "091c307eb17b72b16c79ec45": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4543.5,
+   "overtime_income_deduction": 8400.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 39850.0,
+   "tip_income_deduction": 0.0
+  },
+  "0969f0aa92d17b076fbb2c07": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2671.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 24250.0,
+   "tip_income_deduction": 14000.0
+  },
+  "0a552a4076176100fdac5342": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5215.5,
+   "overtime_income_deduction": 2800.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 45450.0,
+   "tip_income_deduction": 0.0
+  },
+  "0b50a55a57ec3d82d3a43d92": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5191.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 45250.0,
+   "tip_income_deduction": 0.0
+  },
+  "0d00692365ce7da65e3c8e46": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 7069.0,
+   "overtime_income_deduction": 1000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 55250.0,
+   "tip_income_deduction": 0.0
+  },
+  "0f67c6bd6dc4e87fde0d5abd": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 7289.0,
+   "overtime_income_deduction": 3000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 56250.0,
+   "tip_income_deduction": 0.0
+  },
+  "136a8bec37fd73b38c57e87a": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 8823.0,
+   "overtime_income_deduction": 9000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 77500.0,
+   "tip_income_deduction": 0.0
+  },
+  "15f40f30fdcea4af91eb1cbc": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 23291.0,
+   "overtime_income_deduction": 8900.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 126850.0,
+   "tip_income_deduction": 0.0
+  },
+  "16abfad4de32bc882a98bccd": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 17238.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 108875.0,
+   "tip_income_deduction": 0.0
+  },
+  "17fe56e73df7f3bbeb52fd2a": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3245.0,
+   "overtime_income_deduction": 7500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 29875.0,
+   "tip_income_deduction": 0.0
+  },
+  "1963948ec7fe26cfafec05c8": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5251.5,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 45750.0,
+   "tip_income_deduction": 0.0
+  },
+  "1ab0547aea595884bb769c3e": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6079.0,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 50750.0,
+   "tip_income_deduction": 0.0
+  },
+  "1c2c7dc15b630bb34a74ab11": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3571.5,
+   "overtime_income_deduction": 4500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 31750.0,
+   "tip_income_deduction": 0.0
+  },
+  "1d38c7650f7219af391ee756": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4111.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 36250.0,
+   "tip_income_deduction": 0.0
+  },
+  "1ec4cfd77208e9ae8e478341": {
+   "additional_senior_deduction": 6000.0,
+   "income_tax_before_credits": 10791.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 33100.0,
+   "taxable_income": 93900.0,
+   "tip_income_deduction": 0.0
+  },
+  "20ea33344fc1383c00dae041": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2705.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 25375.0,
+   "tip_income_deduction": 0.0
+  },
+  "218ed93eedf2cb3bff97b199": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 1711.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 16250.0,
+   "tip_income_deduction": 9000.0
+  },
+  "2222bec38536fa3374688cb0": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4831.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 42250.0,
+   "tip_income_deduction": 0.0
+  },
+  "2605e3767b31b2155691ef73": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4063.5,
+   "overtime_income_deduction": 5400.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 35850.0,
+   "tip_income_deduction": 0.0
+  },
+  "2a63b236819c3a33a8e366f9": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5283.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 48000.0,
+   "tip_income_deduction": 0.0
+  },
+  "327d207fc4c9b11ecb967585": {
+   "additional_senior_deduction": 5700.0,
+   "income_tax_before_credits": 7355.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 17750.0,
+   "taxable_income": 56550.0,
+   "tip_income_deduction": 0.0
+  },
+  "3396384d6cbec19e605f4603": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5215.5,
+   "overtime_income_deduction": 2800.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 45450.0,
+   "tip_income_deduction": 0.0
+  },
+  "33ea6615db91c79d4f80025c": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 13449.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 84250.0,
+   "tip_income_deduction": 0.0
+  },
+  "3464d096379c1d5b6f217e7a": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 24731.0,
+   "overtime_income_deduction": 2900.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 132850.0,
+   "tip_income_deduction": 0.0
+  },
+  "350645ec547675b317717b6c": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 17548.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 126000.0,
+   "tip_income_deduction": 0.0
+  },
+  "36256e71181fcb12d73fb6b2": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5251.5,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 45750.0,
+   "tip_income_deduction": 0.0
+  },
+  "374087451a77f7029c53242d": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 9423.0,
+   "overtime_income_deduction": 18000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 82500.0,
+   "tip_income_deduction": 0.0
+  },
+  "374c34b583f4208ea772fdbe": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3845.0,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 34875.0,
+   "tip_income_deduction": 0.0
+  },
+  "37993e5a9ed99d8e1b8d50cb": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5969.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 50250.0,
+   "tip_income_deduction": 0.0
+  },
+  "3aaa3dd8df994c8144e56fcc": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 9543.0,
+   "overtime_income_deduction": 3000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 83500.0,
+   "tip_income_deduction": 0.0
+  },
+  "3b24c35dbecfffb0ce138d3d": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5283.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 48000.0,
+   "tip_income_deduction": 0.0
+  },
+  "3c43c198a7700b6a1186b09a": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3931.5,
+   "overtime_income_deduction": 1500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 34750.0,
+   "tip_income_deduction": 0.0
+  },
+  "3d5cd44e38989f0af2cade18": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6849.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 54250.0,
+   "tip_income_deduction": 0.0
+  },
+  "40108859dd75fe4bb06920f3": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 9423.0,
+   "overtime_income_deduction": 18000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 82500.0,
+   "tip_income_deduction": 0.0
+  },
+  "40faab48d4666fc9c992360d": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6739.0,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 53750.0,
+   "tip_income_deduction": 0.0
+  },
+  "422f2efc080b2c006628437f": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 24731.0,
+   "overtime_income_deduction": 2900.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 132850.0,
+   "tip_income_deduction": 0.0
+  },
+  "426f9cb8b1ccfeefb816762e": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4565.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 40875.0,
+   "tip_income_deduction": 0.0
+  },
+  "46bd128f063920f6a459722b": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5969.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 50250.0,
+   "tip_income_deduction": 0.0
+  },
+  "47715e589756954b0bc4bf48": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4831.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 42250.0,
+   "tip_income_deduction": 0.0
+  },
+  "499989f5c5caaad50dd22781": {
+   "additional_senior_deduction": 6000.0,
+   "income_tax_before_credits": 5311.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 17750.0,
+   "taxable_income": 46250.0,
+   "tip_income_deduction": 0.0
+  },
+  "49bc859d797c08504928b81a": {
+   "additional_senior_deduction": 6000.0,
+   "income_tax_before_credits": 10791.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 33100.0,
+   "taxable_income": 93900.0,
+   "tip_income_deduction": 0.0
+  },
+  "4c4f4c7c3769b0c92af8d8aa": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5311.5,
+   "overtime_income_deduction": 4000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 46250.0,
+   "tip_income_deduction": 0.0
+  },
+  "4d184d1444d0ca023a42185d": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 1711.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 16250.0,
+   "tip_income_deduction": 9000.0
+  },
+  "4d8a8110d8966a6fced31508": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 7289.0,
+   "overtime_income_deduction": 3000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 56250.0,
+   "tip_income_deduction": 0.0
+  },
+  "4f0cb12e65654e5904e176c0": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 600.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 6000.0,
+   "tip_income_deduction": 0.0
+  },
+  "4fa9d5fc53733d9920b33431": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2561.0,
+   "overtime_income_deduction": 200.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 24175.0,
+   "tip_income_deduction": 0.0
+  },
+  "4fdf038933bec468c3633054": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 9599.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 66750.0,
+   "tip_income_deduction": 0.0
+  },
+  "506efda9f38a8368e060931f": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3931.5,
+   "overtime_income_deduction": 1500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 34750.0,
+   "tip_income_deduction": 0.0
+  },
+  "518c13a22715fb2c8d876387": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5491.5,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 47750.0,
+   "tip_income_deduction": 0.0
+  },
+  "5255e3edebd411bd1c1d1533": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3845.0,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 34875.0,
+   "tip_income_deduction": 0.0
+  },
+  "5462c3e67669e03d2759245f": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 16419.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 97750.0,
+   "tip_income_deduction": 0.0
+  },
+  "586ccc09072fbe5cd455169c": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5191.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 45250.0,
+   "tip_income_deduction": 0.0
+  },
+  "58f527ec687e2a79e5911dbc": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6063.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 54500.0,
+   "tip_income_deduction": 0.0
+  },
+  "5983988a4eaf4552c402ace1": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4111.5,
+   "overtime_income_deduction": 6000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 36250.0,
+   "tip_income_deduction": 0.0
+  },
+  "5b02a4107b8df6e5a422dd21": {
+   "additional_senior_deduction": 5700.0,
+   "income_tax_before_credits": 7355.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 17750.0,
+   "taxable_income": 56550.0,
+   "tip_income_deduction": 0.0
+  },
+  "5bcea6b60df981d96308cfd8": {
+   "additional_senior_deduction": 5700.0,
+   "income_tax_before_credits": 7355.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 17750.0,
+   "taxable_income": 56550.0,
+   "tip_income_deduction": 0.0
+  },
+  "5dc31966772faf7717444677": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 7069.0,
+   "overtime_income_deduction": 1000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 55250.0,
+   "tip_income_deduction": 0.0
+  },
+  "5e00b863d9c99d1f275e949f": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4745.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 42375.0,
+   "tip_income_deduction": 0.0
+  },
+  "5e4e5984809dfb8f3d60d123": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 9423.0,
+   "overtime_income_deduction": 18000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 82500.0,
+   "tip_income_deduction": 0.0
+  },
+  "5e93c83a64958ef4ea7906cc": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 13449.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 84250.0,
+   "tip_income_deduction": 0.0
+  },
+  "60d070bcd4832bce463f8364": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2513.0,
+   "overtime_income_deduction": 600.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 23775.0,
+   "tip_income_deduction": 0.0
+  },
+  "6324ad169d1b04b72ef78773": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2551.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 23250.0,
+   "tip_income_deduction": 0.0
+  },
+  "667546bc32f5ccb62d641793": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 7399.0,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 56750.0,
+   "tip_income_deduction": 0.0
+  },
+  "68584225e057adf8ae8c8319": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4591.5,
+   "overtime_income_deduction": 2000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 40250.0,
+   "tip_income_deduction": 0.0
+  },
+  "68dc7551e7ff323304befd19": {
+   "additional_senior_deduction": 6000.0,
+   "income_tax_before_credits": 5311.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 17750.0,
+   "taxable_income": 46250.0,
+   "tip_income_deduction": 0.0
+  },
+  "69477f965bfa057f1b67d30f": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5191.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 45250.0,
+   "tip_income_deduction": 0.0
+  },
+  "6e9e646e5196b023201cd1b4": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5311.5,
+   "overtime_income_deduction": 4000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 46250.0,
+   "tip_income_deduction": 0.0
+  },
+  "75fc4925ddc5e9dfd0319855": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4711.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 41250.0,
+   "tip_income_deduction": 0.0
+  },
+  "7625645a4fccc2adfdab93ca": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2671.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 24250.0,
+   "tip_income_deduction": 14000.0
+  },
+  "76dabb43b6df419d856b2648": {
+   "additional_senior_deduction": 10800.0,
+   "income_tax_before_credits": 15018.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 34700.0,
+   "taxable_income": 114500.0,
+   "tip_income_deduction": 0.0
+  },
+  "789e767ba6daa5b73329d32a": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 16419.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 97750.0,
+   "tip_income_deduction": 0.0
+  },
+  "78a7b42f0f3ad621d4ada0c6": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 23291.0,
+   "overtime_income_deduction": 8900.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 126850.0,
+   "tip_income_deduction": 0.0
+  },
+  "7cb008a5b79a63e9ab5ee940": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4745.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 42375.0,
+   "tip_income_deduction": 0.0
+  },
+  "7da6c8e308cf512ffe67644d": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3845.0,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 34875.0,
+   "tip_income_deduction": 0.0
+  },
+  "7e271ff933a3defccccc1612": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6519.0,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 52750.0,
+   "tip_income_deduction": 0.0
+  },
+  "7e9dca6a4ace769a955187de": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3845.0,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 34875.0,
+   "tip_income_deduction": 0.0
+  },
+  "8041871d20bddfdf120d93de": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 9599.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 66750.0,
+   "tip_income_deduction": 0.0
+  },
+  "8041d2bf6684bf04a5eb2a12": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3751.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 33250.0,
+   "tip_income_deduction": 0.0
+  },
+  "805e485cfd439984388f6775": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 1711.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 16250.0,
+   "tip_income_deduction": 9000.0
+  },
+  "837eb4c0d5e905765e950963": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4411.5,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 38750.0,
+   "tip_income_deduction": 0.0
+  },
+  "8530a8a906941d55131f8062": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4385.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 39375.0,
+   "tip_income_deduction": 0.0
+  },
+  "85d8f9e6aee6f870edd2cabb": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5191.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 45250.0,
+   "tip_income_deduction": 0.0
+  },
+  "85fadac1d3834cdcc81e551f": {
+   "additional_senior_deduction": 10800.0,
+   "income_tax_before_credits": 15018.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 34700.0,
+   "taxable_income": 114500.0,
+   "tip_income_deduction": 0.0
+  },
+  "860517d81a29d003213a5fdf": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4063.5,
+   "overtime_income_deduction": 5400.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 35850.0,
+   "tip_income_deduction": 0.0
+  },
+  "87ddce654e9847b32538de14": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4111.5,
+   "overtime_income_deduction": 6000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 36250.0,
+   "tip_income_deduction": 0.0
+  },
+  "8ba15f3b2005053a0c97d5f0": {
+   "additional_senior_deduction": 10800.0,
+   "income_tax_before_credits": 15018.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 34700.0,
+   "taxable_income": 114500.0,
+   "tip_income_deduction": 0.0
+  },
+  "8fe50b905436cd9b7fa64b15": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2561.0,
+   "overtime_income_deduction": 200.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 24175.0,
+   "tip_income_deduction": 0.0
+  },
+  "908998d14e097ba4bb5a60cd": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2705.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 25375.0,
+   "tip_income_deduction": 0.0
+  },
+  "92af00ff6dbf64333721c2c2": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6646.60009765625,
+   "overtime_income_deduction": 1920.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 53330.0,
+   "tip_income_deduction": 0.0
+  },
+  "92c1b0c9182f38a04d95197b": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4591.5,
+   "overtime_income_deduction": 2000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 40250.0,
+   "tip_income_deduction": 0.0
+  },
+  "96da8b046af134193c552ae3": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 7949.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 59250.0,
+   "tip_income_deduction": 0.0
+  },
+  "993994861022565cf29ee8b2": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 8823.0,
+   "overtime_income_deduction": 9000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 77500.0,
+   "tip_income_deduction": 0.0
+  },
+  "9a2edda17e5c40a9e3bf3b37": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3751.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 33250.0,
+   "tip_income_deduction": 0.0
+  },
+  "9a545ea1f8ea64810dde1177": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6409.0,
+   "overtime_income_deduction": 4000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 52250.0,
+   "tip_income_deduction": 0.0
+  },
+  "9bb35501efcd891ddd5a1cbf": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 10863.0,
+   "overtime_income_deduction": 6000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 94500.0,
+   "tip_income_deduction": 0.0
+  },
+  "9d965b2ea9497a0d5baf3675": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5491.5,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 47750.0,
+   "tip_income_deduction": 0.0
+  },
+  "a341533b753a7bf3675efc06": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5491.5,
+   "overtime_income_deduction": 7500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 47750.0,
+   "tip_income_deduction": 0.0
+  },
+  "a4009e4134dc4d18e47dcd94": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3245.0,
+   "overtime_income_deduction": 7500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 29875.0,
+   "tip_income_deduction": 0.0
+  },
+  "a5887a4307d4da50b97d567f": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4999.5,
+   "overtime_income_deduction": 9600.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 43650.0,
+   "tip_income_deduction": 0.0
+  },
+  "a5f47966711236649a08b6a4": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4111.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 36250.0,
+   "tip_income_deduction": 0.0
+  },
+  "a87a10541e058b3c2f3fbab6": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4565.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 40875.0,
+   "tip_income_deduction": 0.0
+  },
+  "a8b8b95f3eb31b703c0ef6cd": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2513.0,
+   "overtime_income_deduction": 600.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 23775.0,
+   "tip_income_deduction": 0.0
+  },
+  "a8cca90b597fedc7527e2c57": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 17238.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 108875.0,
+   "tip_income_deduction": 0.0
+  },
+  "a92c9e9642e0976dff80fd10": {
+   "additional_senior_deduction": 6000.0,
+   "income_tax_before_credits": 10791.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 33100.0,
+   "taxable_income": 93900.0,
+   "tip_income_deduction": 0.0
+  },
+  "aa40856b236e4fa50b2c1fea": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 18467.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 106750.0,
+   "tip_income_deduction": 0.0
+  },
+  "ab2a424ccc73962e201ca7de": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 9599.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 66750.0,
+   "tip_income_deduction": 0.0
+  },
+  "aba0e26b18c360982f62fa16": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 600.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 6000.0,
+   "tip_income_deduction": 0.0
+  },
+  "ac7e2d635b1fe12ae8f386f0": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4111.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 36250.0,
+   "tip_income_deduction": 0.0
+  },
+  "afa76bd341317b17742522af": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 10863.0,
+   "overtime_income_deduction": 6000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 94500.0,
+   "tip_income_deduction": 0.0
+  },
+  "b083f2d3966b570c0f263af6": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6849.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 54250.0,
+   "tip_income_deduction": 0.0
+  },
+  "b18906780084736c379f0f38": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4591.5,
+   "overtime_income_deduction": 2000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 40250.0,
+   "tip_income_deduction": 0.0
+  },
+  "b1b6e3e2a75bfdf99004eaa2": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 17548.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 126000.0,
+   "tip_income_deduction": 0.0
+  },
+  "b4026d3320d99fc061c8c345": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 8823.0,
+   "overtime_income_deduction": 9000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 77500.0,
+   "tip_income_deduction": 0.0
+  },
+  "b44f0f3c9eac070b5540494f": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6646.60009765625,
+   "overtime_income_deduction": 1920.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 53330.0,
+   "tip_income_deduction": 0.0
+  },
+  "b5082dbe75ddbf4ced0fedbf": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4565.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 40875.0,
+   "tip_income_deduction": 0.0
+  },
+  "b54e46107dd0587fa6e1e6b5": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2551.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 23250.0,
+   "tip_income_deduction": 0.0
+  },
+  "b9142d2807b6508f960a3d04": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4543.5,
+   "overtime_income_deduction": 8400.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 39850.0,
+   "tip_income_deduction": 0.0
+  },
+  "bb076e7a9c7c1dd11cddb132": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 7069.0,
+   "overtime_income_deduction": 1000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 55250.0,
+   "tip_income_deduction": 0.0
+  },
+  "bbece63f6960520494f1c67e": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 7949.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 59250.0,
+   "tip_income_deduction": 0.0
+  },
+  "bc762b5f781d9bf8b3459e78": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4531.5,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 39750.0,
+   "tip_income_deduction": 0.0
+  },
+  "c1c722f35720a5d6382523b6": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2551.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 23250.0,
+   "tip_income_deduction": 0.0
+  },
+  "c45806e8413be9cf35b34eba": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4385.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 39375.0,
+   "tip_income_deduction": 0.0
+  },
+  "c64c69af55158361cc55a7f7": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4591.5,
+   "overtime_income_deduction": 10000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 40250.0,
+   "tip_income_deduction": 0.0
+  },
+  "c88f214baf7864d329779b73": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4831.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 42250.0,
+   "tip_income_deduction": 0.0
+  },
+  "c8b140ebbaa0c2839ba4f19a": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3811.5,
+   "overtime_income_deduction": 2500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 33750.0,
+   "tip_income_deduction": 0.0
+  },
+  "c9d52e64f425fc1d73b21759": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6063.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 54500.0,
+   "tip_income_deduction": 0.0
+  },
+  "cb0fadb7078ecb96eb6a0bb3": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6063.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 54500.0,
+   "tip_income_deduction": 0.0
+  },
+  "cb4e704493f2e28c37e64cd1": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6409.0,
+   "overtime_income_deduction": 4000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 52250.0,
+   "tip_income_deduction": 0.0
+  },
+  "cce4b88399d357a8fc80b551": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2705.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 25375.0,
+   "tip_income_deduction": 0.0
+  },
+  "cdf4b8a150bc28f02894420d": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 17548.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 126000.0,
+   "tip_income_deduction": 0.0
+  },
+  "d01ae69d755fbd3e25483865": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 24851.0,
+   "overtime_income_deduction": 2400.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 133350.0,
+   "tip_income_deduction": 0.0
+  },
+  "d3e0806fdd21a7dc7798315e": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5491.5,
+   "overtime_income_deduction": 7500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 47750.0,
+   "tip_income_deduction": 0.0
+  },
+  "d3e766504440caac7a80e0f5": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 13449.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 84250.0,
+   "tip_income_deduction": 0.0
+  },
+  "d43e823c66f5df3bf75f28e3": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2671.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 24250.0,
+   "tip_income_deduction": 14000.0
+  },
+  "d6a810d8b19dde9a33794db7": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4711.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 41250.0,
+   "tip_income_deduction": 0.0
+  },
+  "d6caa20f11b6126a6d2f29f7": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 2561.0,
+   "overtime_income_deduction": 200.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 24175.0,
+   "tip_income_deduction": 0.0
+  },
+  "d83539bbeab8017578a55500": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 9543.0,
+   "overtime_income_deduction": 3000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 83500.0,
+   "tip_income_deduction": 0.0
+  },
+  "d89e8ebc4801e749ce6dfad7": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5969.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 50250.0,
+   "tip_income_deduction": 0.0
+  },
+  "d9e5b876a9fb896b951bc8cb": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 600.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 6000.0,
+   "tip_income_deduction": 0.0
+  },
+  "dbd27c6f85d0349015b30c0c": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 18467.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 106750.0,
+   "tip_income_deduction": 0.0
+  },
+  "e2359b21c8bc6847b5fb9c7b": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 24851.0,
+   "overtime_income_deduction": 2400.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 133350.0,
+   "tip_income_deduction": 0.0
+  },
+  "e382e1f917c35d7e400858ad": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6849.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 54250.0,
+   "tip_income_deduction": 0.0
+  },
+  "e4747a53f586e60ff13f0cca": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5283.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 48000.0,
+   "tip_income_deduction": 0.0
+  },
+  "e81a355127bc8a1ab2cabfb1": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 10863.0,
+   "overtime_income_deduction": 6000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 94500.0,
+   "tip_income_deduction": 0.0
+  },
+  "e9e68cd386d8bb7f73200108": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 9543.0,
+   "overtime_income_deduction": 3000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 31500.0,
+   "taxable_income": 83500.0,
+   "tip_income_deduction": 0.0
+  },
+  "eb36b195e8baf5e3b0ee7769": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4385.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 39375.0,
+   "tip_income_deduction": 0.0
+  },
+  "eb4786590daf580e21026b6b": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 7949.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 59250.0,
+   "tip_income_deduction": 0.0
+  },
+  "eb97c73c6f389b51cf4d49b6": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3751.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 33250.0,
+   "tip_income_deduction": 0.0
+  },
+  "ebcf94dd67de827e35438c51": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4745.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 42375.0,
+   "tip_income_deduction": 0.0
+  },
+  "f076e6a3a9eb6f731e6e40ac": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 5191.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 45250.0,
+   "tip_income_deduction": 0.0
+  },
+  "f202faacb8f769f010b0afb4": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 6646.60009765625,
+   "overtime_income_deduction": 1920.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 53330.0,
+   "tip_income_deduction": 0.0
+  },
+  "f4675579c23cfb5737b059b3": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 16419.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 97750.0,
+   "tip_income_deduction": 0.0
+  },
+  "f5a001042020ee8f0e3d138b": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 18467.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 106750.0,
+   "tip_income_deduction": 0.0
+  },
+  "f5c3ca63b8e7e87eca0a0ef0": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 17238.0,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 23625.0,
+   "taxable_income": 108875.0,
+   "tip_income_deduction": 0.0
+  },
+  "f76f52ffee4d5061e2627f31": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4351.5,
+   "overtime_income_deduction": 12000.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 38250.0,
+   "tip_income_deduction": 0.0
+  },
+  "f9353c52f3c865d8172ecb9d": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 3931.5,
+   "overtime_income_deduction": 1500.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 34750.0,
+   "tip_income_deduction": 0.0
+  },
+  "fd99ed6ea34579f2c6fad633": {
+   "additional_senior_deduction": 0.0,
+   "income_tax_before_credits": 4711.5,
+   "overtime_income_deduction": 0.0,
+   "policyengine_us": "2.90.4",
+   "standard_deduction": 15750.0,
+   "taxable_income": 41250.0,
+   "tip_income_deduction": 0.0
+  }
+ },
+ "runs": [
+  {
+   "adapter": 3,
+   "at": "2026-11-02T04:51:20",
+   "policyengine_us": "2.90.4",
+   "reform": {},
+   "returns": 40,
+   "seconds": 35.5
+  },
+  {
+   "adapter": 3,
+   "at": "2026-11-02T04:51:21",
+   "policyengine_us": "2.90.4",
+   "reform": {},
+   "returns": 38,
+   "seconds": 0.6
+  },
+  {
+   "adapter": 3,
+   "at": "2026-11-02T04:51:22",
+   "policyengine_us": "2.90.4",
+   "reform": {},
+   "returns": 39,
+   "seconds": 0.6
+  },
+  {
+   "adapter": 3,
+   "at": "2026-11-02T04:51:47",
+   "policyengine_us": "2.90.4",
+   "reform": {
+    "gov.irs.deductions.overtime_income.cap.HEAD_OF_HOUSEHOLD": 2500.0,
+    "gov.irs.deductions.overtime_income.cap.SINGLE": 2500.0
+   },
+   "returns": 39,
+   "seconds": 25.5
+  },
+  {
+   "adapter": 3,
+   "at": "2026-11-02T04:52:14",
+   "policyengine_us": "2.90.4",
+   "reform": {
+    "gov.irs.deductions.overtime_income.cap.HEAD_OF_HOUSEHOLD": 2500.0,
+    "gov.irs.deductions.overtime_income.cap.SINGLE": 2500.0
+   },
+   "returns": 39,
+   "seconds": 26.7
+  },
+  {
+   "adapter": 3,
+   "at": "2026-11-02T04:52:17",
+   "policyengine_us": "2.90.4",
+   "reform": {},
+   "returns": 38,
+   "seconds": 2.8
+  },
+  {
+   "adapter": 3,
+   "at": "2026-11-02T04:52:43",
+   "policyengine_us": "2.90.4",
+   "reform": {
+    "gov.irs.deductions.overtime_income.cap.HEAD_OF_HOUSEHOLD": 2500.0,
+    "gov.irs.deductions.overtime_income.cap.SINGLE": 2500.0
+   },
+   "returns": 40,
+   "seconds": 26.1
+  },
+  {
+   "adapter": 3,
+   "at": "2026-11-02T09:11:35",
+   "policyengine_us": "2.90.4",
+   "reform": {
+    "gov.irs.deductions.overtime_income.cap.HEAD_OF_HOUSEHOLD": 10000.0,
+    "gov.irs.deductions.overtime_income.cap.SINGLE": 10000.0
+   },
+   "returns": 40,
+   "seconds": 58.8
+  },
+  {
+   "adapter": 3,
+   "at": "2026-11-02T09:12:01",
+   "policyengine_us": "2.90.4",
+   "reform": {
+    "gov.irs.deductions.overtime_income.cap.HEAD_OF_HOUSEHOLD": 10000.0,
+    "gov.irs.deductions.overtime_income.cap.SINGLE": 10000.0
+   },
+   "returns": 38,
+   "seconds": 26.1
+  },
+  {
+   "adapter": 3,
+   "at": "2026-11-02T09:12:28",
+   "policyengine_us": "2.90.4",
+   "reform": {
+    "gov.irs.deductions.overtime_income.cap.HEAD_OF_HOUSEHOLD": 10000.0,
+    "gov.irs.deductions.overtime_income.cap.SINGLE": 10000.0
+   },
+   "returns": 39,
+   "seconds": 26.9
+  }
+ ]
+}

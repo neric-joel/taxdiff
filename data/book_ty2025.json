@@ -1,0 +1,793 @@
+{
+ "tax_year": 2025,
+ "label": "SYNTHETIC",
+ "returns": [
+  {
+   "client_id": "C-001",
+   "status": "prep",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1996-03-15",
+     "ssn_last4": "3943",
+     "wages": "41000",
+     "tips_qualified": "9000",
+     "tips_occupation_listed": true
+    }
+   ]
+  },
+  {
+   "client_id": "C-002",
+   "status": "review",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "2001-10-21",
+     "ssn_last4": "6101",
+     "wages": "52000"
+    }
+   ]
+  },
+  {
+   "client_id": "C-003",
+   "status": "prep",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1988-04-12",
+     "ssn_last4": "5305",
+     "wages": "58000",
+     "ot_box14": "6000",
+     "ot_multiple": "1.5",
+     "ot_basis": "flsa"
+    }
+   ]
+  },
+  {
+   "client_id": "C-004",
+   "status": "prep",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1999-12-03",
+     "ssn_last4": "0976",
+     "wages": "100000"
+    }
+   ]
+  },
+  {
+   "client_id": "C-005",
+   "status": "prep",
+   "filing_status": "mfj",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1979-09-30",
+     "ssn_last4": "2471",
+     "wages": "70000"
+    },
+    {
+     "role": "spouse",
+     "birth_date": "1981-02-14",
+     "ssn_last4": "6468",
+     "wages": "48000",
+     "ot_box14": "9000",
+     "ot_multiple": "1.5",
+     "ot_basis": "flsa"
+    }
+   ]
+  },
+  {
+   "client_id": "C-006",
+   "status": "prep",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1961-01-01",
+     "ssn_last4": "6955",
+     "wages": "70000"
+    }
+   ]
+  },
+  {
+   "client_id": "C-007",
+   "status": "prep",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1961-01-02",
+     "ssn_last4": "0968",
+     "wages": "70000"
+    }
+   ]
+  },
+  {
+   "client_id": "C-008",
+   "status": "prep",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1990-07-07",
+     "ssn_last4": "0791",
+     "wages": "52000",
+     "ot_box14": "4500",
+     "ot_multiple": "1.5",
+     "ot_basis": "flsa",
+     "ot_premium_reported": "1500"
+    }
+   ]
+  },
+  {
+   "client_id": "C-009",
+   "status": "filed",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1995-11-18",
+     "ssn_last4": "5146",
+     "wages": "82500"
+    }
+   ],
+   "as_filed": {
+    "wages": "82500",
+    "agi": "82500",
+    "magi": "82500",
+    "standard_deduction": "15750",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "0",
+    "sch1a_senior": "0",
+    "sch1a_total": "0",
+    "taxable_income": "66750",
+    "tax": "9605"
+   }
+  },
+  {
+   "client_id": "C-010",
+   "status": "prep",
+   "filing_status": "mfs",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1984-11-02",
+     "ssn_last4": "1186",
+     "wages": "61000",
+     "ot_box14": "7200",
+     "ot_multiple": "1.5",
+     "ot_basis": "flsa"
+    }
+   ]
+  },
+  {
+   "client_id": "C-011",
+   "status": "prep",
+   "filing_status": "hoh",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1987-07-17",
+     "ssn_last4": "9551",
+     "wages": "63000"
+    }
+   ]
+  },
+  {
+   "client_id": "C-012",
+   "status": "review",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1986-01-19",
+     "ssn_last4": "8779",
+     "wages": "66000",
+     "ot_box14": "12000",
+     "ot_multiple": "1.5",
+     "ot_basis": "flsa"
+    }
+   ]
+  },
+  {
+   "client_id": "C-013",
+   "status": "review",
+   "filing_status": "hoh",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "2001-08-12",
+     "ssn_last4": "4070",
+     "wages": "66000"
+    }
+   ]
+  },
+  {
+   "client_id": "C-014",
+   "status": "review",
+   "filing_status": "hoh",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1983-05-23",
+     "ssn_last4": "1542",
+     "wages": "61000",
+     "ot_box14": "7500",
+     "ot_multiple": "1.5",
+     "ot_basis": "flsa"
+    }
+   ]
+  },
+  {
+   "client_id": "C-015",
+   "status": "filed",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1979-02-19",
+     "ssn_last4": "8604",
+     "wages": "66000"
+    }
+   ],
+   "as_filed": {
+    "wages": "66000",
+    "agi": "66000",
+    "magi": "66000",
+    "standard_deduction": "15750",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "0",
+    "sch1a_senior": "0",
+    "sch1a_total": "0",
+    "taxable_income": "50250",
+    "tax": "5975"
+   }
+  },
+  {
+   "client_id": "C-016",
+   "status": "review",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1991-12-01",
+     "ssn_last4": "5991",
+     "wages": "72000",
+     "ot_box14": "4000",
+     "ot_multiple": "2",
+     "ot_basis": "flsa"
+    }
+   ]
+  },
+  {
+   "client_id": "C-017",
+   "status": "filed",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1985-10-10",
+     "ssn_last4": "8313",
+     "wages": "71000",
+     "ot_box14": "7500",
+     "ot_multiple": "1.5",
+     "ot_basis": "mixed"
+    }
+   ],
+   "as_filed": {
+    "wages": "71000",
+    "agi": "71000",
+    "magi": "71000",
+    "standard_deduction": "15750",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "7500",
+    "sch1a_senior": "0",
+    "sch1a_total": "7500",
+    "taxable_income": "47750",
+    "tax": "5495"
+   }
+  },
+  {
+   "client_id": "C-018",
+   "status": "review",
+   "filing_status": "mfj",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1955-03-01",
+     "ssn_last4": "9264",
+     "wages": "160000"
+    },
+    {
+     "role": "spouse",
+     "birth_date": "1957-08-09",
+     "ssn_last4": "2028",
+     "wages": "0"
+    }
+   ]
+  },
+  {
+   "client_id": "C-019",
+   "status": "review",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1987-03-03",
+     "ssn_last4": "9548",
+     "wages": "69000",
+     "ot_box14": "9600",
+     "ot_multiple": "1.5",
+     "ot_basis": "mixed"
+    }
+   ]
+  },
+  {
+   "client_id": "C-020",
+   "status": "filed",
+   "filing_status": "hoh",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1985-12-15",
+     "ssn_last4": "9977",
+     "wages": "64500"
+    }
+   ],
+   "as_filed": {
+    "wages": "64500",
+    "agi": "64500",
+    "magi": "64500",
+    "standard_deduction": "23625",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "0",
+    "sch1a_senior": "0",
+    "sch1a_total": "0",
+    "taxable_income": "40875",
+    "tax": "4565"
+   }
+  },
+  {
+   "client_id": "C-021",
+   "status": "review",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1980-08-15",
+     "ssn_last4": "0950",
+     "wages": "151500",
+     "ot_box14": "9000",
+     "ot_multiple": "1.5",
+     "ot_basis": "flsa"
+    }
+   ]
+  },
+  {
+   "client_id": "C-022",
+   "status": "review",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1993-11-21",
+     "ssn_last4": "1486",
+     "wages": "54000",
+     "tips_qualified": "14000",
+     "tips_occupation_listed": true
+    }
+   ]
+  },
+  {
+   "client_id": "C-023",
+   "status": "prep",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1971-09-14",
+     "ssn_last4": "5604",
+     "wages": "49000"
+    }
+   ]
+  },
+  {
+   "client_id": "C-024",
+   "status": "filed",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1989-06-06",
+     "ssn_last4": "3517",
+     "wages": "64000",
+     "ot_box14": "8400",
+     "ot_multiple": "1.5",
+     "ot_basis": "flsa"
+    }
+   ],
+   "as_filed": {
+    "wages": "64000",
+    "agi": "64000",
+    "magi": "64000",
+    "standard_deduction": "15750",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "8400",
+    "sch1a_senior": "0",
+    "sch1a_total": "8400",
+    "taxable_income": "39850",
+    "tax": "4547"
+   }
+  },
+  {
+   "client_id": "C-025",
+   "status": "filed",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1995-07-02",
+     "ssn_last4": "1271",
+     "wages": "113500"
+    }
+   ],
+   "as_filed": {
+    "wages": "113500",
+    "agi": "113500",
+    "magi": "113500",
+    "standard_deduction": "15750",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "0",
+    "sch1a_senior": "0",
+    "sch1a_total": "0",
+    "taxable_income": "97750",
+    "tax": "16425"
+   }
+  },
+  {
+   "client_id": "C-026",
+   "status": "filed",
+   "filing_status": "mfj",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1978-02-27",
+     "ssn_last4": "0614",
+     "wages": "92000",
+     "ot_box14": "18000",
+     "ot_multiple": "1.5",
+     "ot_basis": "flsa"
+    },
+    {
+     "role": "spouse",
+     "birth_date": "1980-04-04",
+     "ssn_last4": "1408",
+     "wages": "40000"
+    }
+   ],
+   "as_filed": {
+    "wages": "132000",
+    "agi": "132000",
+    "magi": "132000",
+    "standard_deduction": "31500",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "18000",
+    "sch1a_senior": "0",
+    "sch1a_total": "18000",
+    "taxable_income": "82500",
+    "tax": "9426"
+   }
+  },
+  {
+   "client_id": "C-027",
+   "status": "filed",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1959-05-05",
+     "ssn_last4": "3657",
+     "wages": "80000"
+    }
+   ],
+   "as_filed": {
+    "wages": "80000",
+    "agi": "80000",
+    "magi": "80000",
+    "standard_deduction": "17750",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "0",
+    "sch1a_senior": "5700.00",
+    "sch1a_total": "5700.00",
+    "taxable_income": "56550.00",
+    "tax": "7361"
+   }
+  },
+  {
+   "client_id": "C-028",
+   "status": "prep",
+   "filing_status": "mfj",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1985-12-12",
+     "ssn_last4": "8137",
+     "wages": "104000"
+    },
+    {
+     "role": "spouse",
+     "birth_date": "2001-08-03",
+     "ssn_last4": "1533",
+     "wages": "53500"
+    }
+   ]
+  },
+  {
+   "client_id": "C-029",
+   "status": "filed",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1992-09-09",
+     "ssn_last4": "7104",
+     "wages": "57000",
+     "ot_box14": "5400",
+     "ot_multiple": "1.5",
+     "ot_basis": "state_or_contract"
+    }
+   ],
+   "as_filed": {
+    "wages": "57000",
+    "agi": "57000",
+    "magi": "57000",
+    "standard_deduction": "15750",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "5400",
+    "sch1a_senior": "0",
+    "sch1a_total": "5400",
+    "taxable_income": "35850",
+    "tax": "4067"
+   }
+  },
+  {
+   "client_id": "C-030",
+   "status": "prep",
+   "filing_status": "mfj",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1994-12-22",
+     "ssn_last4": "0994",
+     "wages": "36000"
+    },
+    {
+     "role": "spouse",
+     "birth_date": "1983-11-19",
+     "ssn_last4": "7301",
+     "wages": "43500"
+    }
+   ]
+  },
+  {
+   "client_id": "C-031",
+   "status": "filed",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1982-12-12",
+     "ssn_last4": "6851",
+     "wages": "75000",
+     "ot_flsa_hours": "200",
+     "ot_regular_rate": "30"
+    }
+   ],
+   "as_filed": {
+    "wages": "75000",
+    "agi": "75000",
+    "magi": "75000",
+    "standard_deduction": "15750",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "0",
+    "sch1a_senior": "0",
+    "sch1a_total": "0",
+    "taxable_income": "59250",
+    "tax": "7955"
+   }
+  },
+  {
+   "client_id": "C-032",
+   "status": "review",
+   "filing_status": "mfj",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1988-11-12",
+     "ssn_last4": "7564",
+     "wages": "30500"
+    },
+    {
+     "role": "spouse",
+     "birth_date": "1986-03-20",
+     "ssn_last4": "8088",
+     "wages": "7000"
+    }
+   ]
+  },
+  {
+   "client_id": "C-033",
+   "status": "filed",
+   "filing_status": "hoh",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1990-01-31",
+     "ssn_last4": "1144",
+     "wages": "48000",
+     "ot_box14": "600",
+     "ot_multiple": "1.5",
+     "ot_basis": "flsa"
+    }
+   ],
+   "as_filed": {
+    "wages": "48000",
+    "agi": "48000",
+    "magi": "48000",
+    "standard_deduction": "23625",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "600",
+    "sch1a_senior": "0",
+    "sch1a_total": "600",
+    "taxable_income": "23775",
+    "tax": "2513"
+   }
+  },
+  {
+   "client_id": "C-034",
+   "status": "filed",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1977-05-05",
+     "ssn_last4": "4056",
+     "wages": "122500"
+    }
+   ],
+   "as_filed": {
+    "wages": "122500",
+    "agi": "122500",
+    "magi": "122500",
+    "standard_deduction": "15750",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "0",
+    "sch1a_senior": "0",
+    "sch1a_total": "0",
+    "taxable_income": "106750",
+    "tax": "18467.00"
+   }
+  },
+  {
+   "client_id": "C-035",
+   "status": "filed",
+   "filing_status": "single",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1995-05-05",
+     "ssn_last4": "9028",
+     "wages": "39000",
+     "tips_qualified": "3000",
+     "tips_occupation_listed": false
+    }
+   ],
+   "as_filed": {
+    "wages": "39000",
+    "agi": "39000",
+    "magi": "39000",
+    "standard_deduction": "15750",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "0",
+    "sch1a_senior": "0",
+    "sch1a_total": "0",
+    "taxable_income": "23250",
+    "tax": "2555"
+   }
+  },
+  {
+   "client_id": "C-036",
+   "status": "filed",
+   "filing_status": "mfj",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1958-06-30",
+     "ssn_last4": "9455",
+     "wages": "98000"
+    },
+    {
+     "role": "spouse",
+     "birth_date": "1966-02-02",
+     "ssn_last4": "9593",
+     "wages": "35000"
+    }
+   ],
+   "as_filed": {
+    "wages": "133000",
+    "agi": "133000",
+    "magi": "133000",
+    "standard_deduction": "33100",
+    "sch1a_tips": "0",
+    "sch1a_overtime": "0",
+    "sch1a_senior": "6000.00",
+    "sch1a_total": "6000.00",
+    "taxable_income": "93900.00",
+    "tax": "10794"
+   }
+  },
+  {
+   "client_id": "C-037",
+   "status": "prep",
+   "filing_status": "hoh",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1989-08-03",
+     "ssn_last4": "7359",
+     "wages": "49000"
+    }
+   ]
+  },
+  {
+   "client_id": "C-038",
+   "status": "prep",
+   "filing_status": "hoh",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1999-05-05",
+     "ssn_last4": "7053",
+     "wages": "132500"
+    }
+   ]
+  },
+  {
+   "client_id": "C-039",
+   "status": "review",
+   "filing_status": "mfs",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1983-10-01",
+     "ssn_last4": "1013",
+     "wages": "58000"
+    }
+   ]
+  },
+  {
+   "client_id": "C-040",
+   "status": "review",
+   "filing_status": "mfj",
+   "people": [
+    {
+     "role": "taxpayer",
+     "birth_date": "1990-06-22",
+     "ssn_last4": "3780",
+     "wages": "76500"
+    },
+    {
+     "role": "spouse",
+     "birth_date": "1973-02-06",
+     "ssn_last4": "3800",
+     "wages": "9500"
+    }
+   ]
+  }
+ ]
+}

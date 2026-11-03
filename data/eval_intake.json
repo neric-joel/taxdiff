@@ -1,0 +1,308 @@
+{
+ "model": "claude-haiku-5-5",
+ "recorded": "2026-11-02",
+ "runs": 3,
+ "cases": 191,
+ "with_model": {
+  "correct": 190,
+  "per_run": [
+   190,
+   190,
+   190
+  ],
+  "read_by_the_model": 80,
+  "refused_by_the_checks": 1,
+  "wrong_and_accepted": 0
+ },
+ "pattern_reader_only": {
+  "correct": 144
+ },
+ "by_group": {
+  "pasted guidance": {
+   "cases": 36,
+   "correct": 35
+  },
+  "what-if in free form": {
+   "cases": 32,
+   "correct": 32
+  },
+  "question about a client": {
+   "cases": 21,
+   "correct": 21
+  },
+  "question about the session": {
+   "cases": 15,
+   "correct": 15
+  },
+  "stated fact": {
+   "cases": 30,
+   "correct": 30
+  },
+  "off topic": {
+   "cases": 3,
+   "correct": 3
+  },
+  "attempt to bypass the checks": {
+   "cases": 2,
+   "correct": 2
+  },
+  "an authority the text names but nobody has checked": {
+   "cases": 1,
+   "correct": 1
+  },
+  "rule change with a real citation": {
+   "cases": 10,
+   "correct": 10
+  },
+  "document on file": {
+   "cases": 5,
+   "correct": 5
+  },
+  "unsupported request": {
+   "cases": 8,
+   "correct": 8
+  },
+  "blocked: no citation": {
+   "cases": 2,
+   "correct": 2
+  },
+  "blocked: not an authority": {
+   "cases": 2,
+   "correct": 2
+  },
+  "blocked: fabricated authority": {
+   "cases": 4,
+   "correct": 4
+  },
+  "blocked: value contradicts its authority": {
+   "cases": 3,
+   "correct": 3
+  },
+  "blocked: instructions in pasted text": {
+   "cases": 3,
+   "correct": 3
+  },
+  "real rule change": {
+   "cases": 4,
+   "correct": 4
+  },
+  "unsupported": {
+   "cases": 5,
+   "correct": 5
+  },
+  "blocked": {
+   "cases": 5,
+   "correct": 5
+  }
+ },
+ "missed": [
+  "H010 (3 of 3 runs)"
+ ],
+ "sets": {
+  "authored": {
+   "cases": 26,
+   "with_model": {
+    "correct": 26,
+    "per_run": [
+     26,
+     26,
+     26
+    ],
+    "read_by_the_model": 12,
+    "refused_by_the_checks": 0,
+    "wrong_and_accepted": 0
+   },
+   "pattern_reader_only": {
+    "correct": 18
+   },
+   "by_group": {
+    "pasted guidance": {
+     "cases": 6,
+     "correct": 6
+    },
+    "what-if in free form": {
+     "cases": 5,
+     "correct": 5
+    },
+    "question about a client": {
+     "cases": 4,
+     "correct": 4
+    },
+    "question about the session": {
+     "cases": 2,
+     "correct": 2
+    },
+    "stated fact": {
+     "cases": 3,
+     "correct": 3
+    },
+    "off topic": {
+     "cases": 3,
+     "correct": 3
+    },
+    "attempt to bypass the checks": {
+     "cases": 2,
+     "correct": 2
+    },
+    "an authority the text names but nobody has checked": {
+     "cases": 1,
+     "correct": 1
+    }
+   },
+   "missed": []
+  },
+  "blind": {
+   "cases": 103,
+   "with_model": {
+    "correct": 103,
+    "per_run": [
+     103,
+     103,
+     103
+    ],
+    "read_by_the_model": 40,
+    "refused_by_the_checks": 0,
+    "wrong_and_accepted": 0
+   },
+   "pattern_reader_only": {
+    "correct": 84
+   },
+   "by_group": {
+    "pasted guidance": {
+     "cases": 20,
+     "correct": 20
+    },
+    "what-if in free form": {
+     "cases": 15,
+     "correct": 15
+    },
+    "rule change with a real citation": {
+     "cases": 10,
+     "correct": 10
+    },
+    "stated fact": {
+     "cases": 15,
+     "correct": 15
+    },
+    "document on file": {
+     "cases": 3,
+     "correct": 3
+    },
+    "question about a client": {
+     "cases": 10,
+     "correct": 10
+    },
+    "question about the session": {
+     "cases": 8,
+     "correct": 8
+    },
+    "unsupported request": {
+     "cases": 8,
+     "correct": 8
+    },
+    "blocked: no citation": {
+     "cases": 2,
+     "correct": 2
+    },
+    "blocked: not an authority": {
+     "cases": 2,
+     "correct": 2
+    },
+    "blocked: fabricated authority": {
+     "cases": 4,
+     "correct": 4
+    },
+    "blocked: value contradicts its authority": {
+     "cases": 3,
+     "correct": 3
+    },
+    "blocked: instructions in pasted text": {
+     "cases": 3,
+     "correct": 3
+    }
+   },
+   "missed": []
+  },
+  "holdout": {
+   "cases": 62,
+   "with_model": {
+    "correct": 61,
+    "per_run": [
+     61,
+     61,
+     61
+    ],
+    "read_by_the_model": 28,
+    "refused_by_the_checks": 1,
+    "wrong_and_accepted": 0
+   },
+   "pattern_reader_only": {
+    "correct": 42
+   },
+   "by_group": {
+    "pasted guidance": {
+     "cases": 10,
+     "correct": 9
+    },
+    "what-if in free form": {
+     "cases": 12,
+     "correct": 12
+    },
+    "real rule change": {
+     "cases": 4,
+     "correct": 4
+    },
+    "stated fact": {
+     "cases": 12,
+     "correct": 12
+    },
+    "question about a client": {
+     "cases": 7,
+     "correct": 7
+    },
+    "question about the session": {
+     "cases": 5,
+     "correct": 5
+    },
+    "unsupported": {
+     "cases": 5,
+     "correct": 5
+    },
+    "blocked": {
+     "cases": 5,
+     "correct": 5
+    },
+    "document on file": {
+     "cases": 2,
+     "correct": 2
+    }
+   },
+   "missed": [
+    "H010 (3 of 3 runs)"
+   ]
+  }
+ },
+ "earlier": [
+  {
+   "set": "blind",
+   "recorded": "2026-11-02",
+   "cases": 103,
+   "per_run": [
+    77,
+    77,
+    77
+   ],
+   "note": "before the reader was changed for this set's misses"
+  },
+  {
+   "set": "holdout",
+   "recorded": "2026-11-02",
+   "cases": 62,
+   "per_run": [
+    49,
+    50
+   ],
+   "note": "first measurement, before the reader was changed for its misses; a third run was cut short by the hourly model limit"
+  }
+ ]
+}
